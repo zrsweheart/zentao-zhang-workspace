@@ -1,0 +1,20 @@
+.server.pid
+server.log
+server-error.log
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.DS_Store
+Thumbs.db
+
+# Local test data and screenshots
+*.csv
+*.xlsx
+*.xlsm
+*.har
+*.png
+*.jpg
+*.jpeg
